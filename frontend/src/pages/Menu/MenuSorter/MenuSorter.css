@@ -1,0 +1,16 @@
+.price-button, .ant-radio-button-wrapper-disabled {
+    background-color: #ffffff !important;
+    color: rgba(0, 0, 0, 0.85) !important;
+    cursor: auto;
+}
+.navbar-actions {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-actions li {
+    margin-left: 20px;
+}
